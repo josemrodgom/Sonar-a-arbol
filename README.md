@@ -1,15 +1,18 @@
 # Sonar-a-arbol
 [...]
+- video
+- mencion a LABoral y UPM
+- esquema general
 
-## Max project
+## Max Project
 [...]
 
-## Gesture recognition (rpi2Max)
+## Gesture recognition
 - Install Hailo-apps (link)
 - Copy file into folder
 - Run
 
-## BLE Communication (pico2rpi)
+## BLE Communication
 ### Raspberry Pico
 - Install micropython (link)
 - Copy main.py
@@ -19,3 +22,5 @@
 - Paste Pico's BLE address into [file]
 - Run 
   
+## Training RAVE models
+- Colab
