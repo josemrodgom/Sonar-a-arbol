@@ -7,10 +7,12 @@
 ## Max Project
 [...]
 
-## Gesture recognition
+## Pose estimation
 - Install Hailo-apps (link)
 - Copy file into folder
 - Run
+  
+## OSC Communication
 
 ## BLE Communication
 ### Raspberry Pico
