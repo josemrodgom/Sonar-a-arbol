@@ -1,0 +1,1 @@
+cd Documents/bleak && source bleak/bin/activate && python ble-receive-3flex-OSC_ip1921681371.py
