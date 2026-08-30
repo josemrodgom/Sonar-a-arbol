@@ -1,1 +1,1 @@
-cd hailo-apps &&source setup_env.sh && cd hailo_apps/python/pipeline_apps/pose_estimation && python SAA-260616_inverted_nodisplay.py -i rpi
+cd hailo-apps && source setup_env.sh && cd hailo_apps/python/pipeline_apps/pose_estimation && python pose_estimation-SAA_nodisplay.py -i rpi
