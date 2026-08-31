@@ -1,8 +1,5 @@
 # Sonar-a-arbol
 [...]
-- video
-- mencion a LABoral y UPM
-- esquema general
 
 ## Max Project
 [...]
@@ -25,4 +22,4 @@
 - Run 
   
 ## Training RAVE models
-- Colab
+- Implementation in Colab: 
